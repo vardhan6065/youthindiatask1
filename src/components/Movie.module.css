@@ -1,0 +1,27 @@
+.movie {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #2e414a;
+  box-shadow: 0 2px 8px #557c8b;
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  height: 500px;
+  width: 400px;
+  text-shadow: 0px 1px #5e8899;
+}
+
+.movie h2 {
+  font-size: 1.5rem;
+  color: #f7e702;
+}
+
+.movie h3 {
+  color: #eccf77;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.movie p{
+  font-size: 1.2rem;
+}
