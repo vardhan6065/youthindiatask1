@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/youthindiatask1/static/css/main.779cf505.css",
+    "main.js": "/youthindiatask1/static/js/main.6a660df0.js",
+    "static/js/787.69deeab1.chunk.js": "/youthindiatask1/static/js/787.69deeab1.chunk.js",
+    "index.html": "/youthindiatask1/index.html",
+    "main.779cf505.css.map": "/youthindiatask1/static/css/main.779cf505.css.map",
+    "main.6a660df0.js.map": "/youthindiatask1/static/js/main.6a660df0.js.map",
+    "787.69deeab1.chunk.js.map": "/youthindiatask1/static/js/787.69deeab1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.779cf505.css",
+    "static/js/main.6a660df0.js"
+  ]
+}
